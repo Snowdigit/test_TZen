@@ -1,6 +1,6 @@
 Les programmes à exécuter sont dans le repertoire scripts.
 Le job de l'entrainement : training.py
-Le job de sauvegarde : sauvegarde.py
+Le job de sauvegarde : sauvegarde.py (un repertoire models doit être créé à la racine)
 le job de prédiction : testing.py
 
 Le fichier utils.py contient les fonctions dont nous avons besoin pour le prepocessing.
